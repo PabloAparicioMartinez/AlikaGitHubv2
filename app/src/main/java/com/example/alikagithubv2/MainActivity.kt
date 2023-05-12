@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         println("Pupum ha editado esto")
         println("Pupum ha editado esto el 12 de mayo")
         println("Erni ha editado esto el 12 de mayo")
-        println("Erni ha editado esto otra vez el 12 de mayo")
+
+        println("Erni es biende feo")
     }
 }
