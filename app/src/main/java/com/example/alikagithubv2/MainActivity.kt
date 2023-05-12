@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         println("Erni ha editado esto el 12 de mayo")
 
         println("Erni es biende feo")
+
+        println("Aku es biende feo")
     }
 }
