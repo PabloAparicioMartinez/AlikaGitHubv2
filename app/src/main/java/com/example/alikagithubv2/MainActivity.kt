@@ -14,12 +14,8 @@ class MainActivity : AppCompatActivity() {
 
         println("Erni es biende feo")
 
-        println("Aku es biende feo")
+        println("Trabajando en la rama Pupum")
 
-        println("Aku es biende feo")
-        println("Aku es biendee feo")
-        println("Aku es biendeeeeeee feo")
-
-        println("AAAAAAAAAAAAAU")
+        println("AAKUUU")
     }
 }
